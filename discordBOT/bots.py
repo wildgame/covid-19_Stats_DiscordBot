@@ -2,6 +2,7 @@ import discord
 import os
 from discord.ext import commands
 
+#Old token
 token = 'NjkzODQ2ODQ3OTk4OTE4NjU3.XoDCog.vINX8PUvsGdB7QpCTeH_Rs6djG4'
 
 bot = commands.Bot(command_prefix = '!')
