@@ -2,7 +2,7 @@
 
 The bot retrieves data from the John Hopkins covid tracker github. The data is used to gives users specific Covid-19 data on different geographical levels. Each request can take either one or two parameters to target. This means you can target country level data such as in the US or state level data.
 
-Current Commands
+# Current Commands
 
 !movingaverage - Gives the moving average of the location for the past 7 days
 
